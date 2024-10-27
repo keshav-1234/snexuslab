@@ -136,7 +136,7 @@
                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
               </div>
             </div>
-            <div class="cs_copyright">Copyright © 2024 Pro Health. All rights reserved.</div>
+            <div class="cs_copyright">Copyright © 2024 SNEXUSLAB. All rights reserved.</div>
           </div>
         </div>
       </div>
