@@ -56,7 +56,7 @@
             </p>
           </div>
         </div>
-        <img src="assets/img/home_2/patents.png" alt="Hero" class="cs_hero_patents">
+        <!-- <img src="assets/img/home_2/patents.png" alt="Hero" class="cs_hero_patents"> -->
       </div>
       <div class="container">
         <div class="cs_hero_bottom">

@@ -44,7 +44,7 @@
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
               <a class="cs_site_branding" href="index.html">
-                <img src="assets/img/Snexuslogo.jpg" alt="Logo" id="weblogo">
+                <img src="assets/img/Snexuslogo.png" alt="Logo" id="weblogo">
               </a>
               <nav class="cs_nav">
                 <ul class="cs_nav_list">
