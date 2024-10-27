@@ -286,16 +286,32 @@
         </div>
         <div class="cs_height_70 cs_height_lg_50"></div>
         <div class="row">
-          <div class="col-xxl-3 col-md-6">
-            <div class="cs_iconbox cs_style_5 cs_white_bg cs_radius_15">
-              <div class="cs_iconbox_icon cs_center cs_accent_bg cs_radius_15">
-                <img src="assets/img/icons/award.svg" alt="">
+          <div class="col-xxl-6 col-md-6">
+            <a href="assets/certificates/NADL Certificate - LABCORP DIAGNOSTICS PRIVATE LIMITED.pdf" download="NADL Certificate - LABCORP DIAGNOSTICS PRIVATE LIMITED.pdf" style="text-decoration: none; color: inherit;">
+              <div class="cs_iconbox cs_style_5 cs_white_bg cs_radius_15">
+                <div class="cs_iconbox_icon cs_center cs_accent_bg cs_radius_15">
+                  <img src="assets/img/icons/award.svg" alt="">
+                </div>
+                <h2 class="cs_iconbox_title m-0 cs_fs_20 cs_medium">NABL- LABCORP DIAGNOSTICS PRIVATE LIMITED</h2>
               </div>
-              <h2 class="cs_iconbox_title m-0 cs_fs_20 cs_medium">Malcolm Baldrige National Quality Award</h2>
-            </div>
+            </a>
             <div class="cs_height_25"></div>
           </div>
-          <div class="col-xxl-3 col-md-6">
+          <!-- </div>
+          <div class="row"> -->
+            <div class="col-xxl-6 col-md-6">
+              <a href="assets/certificates/NADL Certificate - CRL DIAGNOSTICS PVT. LTD..pdf" download="NADL Certificate - CRL DIAGNOSTICS PVT. LTD..pdf" style="text-decoration: none; color: inherit;">
+                <div class="cs_iconbox cs_style_5 cs_white_bg cs_radius_15">
+                  <div class="cs_iconbox_icon cs_center cs_accent_bg cs_radius_15">
+                    <img src="assets/img/icons/award.svg" alt="">
+                  </div>
+                  <h2 class="cs_iconbox_title m-0 cs_fs_20 cs_medium">NADL- CRL DIAGNOSTICS PVT. LTD.</h2>
+                </div>
+              </a>
+              <div class="cs_height_25"></div>
+            </div>
+          </div>
+          <!-- <div class="col-xxl-3 col-md-6">
             <div class="cs_iconbox cs_style_5 cs_white_bg cs_radius_15">
               <div class="cs_iconbox_icon cs_center cs_accent_bg cs_radius_15">
                 <img src="assets/img/icons/award.svg" alt="">
@@ -321,7 +337,7 @@
               <h2 class="cs_iconbox_title m-0 cs_fs_20 cs_medium">Joint Commission Gold Seal of Approval</h2>
             </div>
             <div class="cs_height_25"></div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>

@@ -39,8 +39,8 @@
     <footer class="cs_footer cs_style_1 cs_heading_color">
       <div class="cs_footer_logo_wrap" data-src="assets/img/footer_bg_1.svg">
         <div class="cs_footer_brand" data-src="assets/img/footer_logo_bg.svg">
-          <img src="assets/img/logo_icon.svg" alt="Logo Icon" class="cs_footer_brand_icon">
-          <h2 class="cs_footer_brand_text">SNEXUSLAB</h2>
+          <img src="assets/img/Snexuslogo_footer_logo.png" alt="Logo Icon" class="cs_footer_brand_icon" style=" margin-top: -55px; width: 160px; height: auto; ">
+          <h2 class="cs_footer_brand_text" style="font-size: 35px;";>SNEXUSLAB</h2>
         </div>
       </div>
       <div class="cs_footer_main">
