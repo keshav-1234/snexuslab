@@ -68,38 +68,38 @@
               <h2 class="cs_section_title cs_fs_72 m-0">Appointment</h2>
             </div>
             <div class="cs_height_57"></div>
-            <form class="row">
+            <form class="row" action="send_email.php" method="post">
               <div class="col-lg-6">
                 <label class="cs_input_label cs_heading_color">Name<span style="color: red;">*</span></label>
-                <input type="text" class="cs_form_field" placeholder="David John" required>
+                <input type="text" class="cs_form_field" name="name" placeholder="David John" required>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-6">
                 <label class="cs_input_label cs_heading_color">Phone Number<span style="color: red;">*</span></label>
-                <input type="text" class="cs_form_field" placeholder="(123) 456 - 789" required>
+                <input type="text" class="cs_form_field" name="phone" placeholder="(123) 456 - 789" required>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-12">
                 <label class="cs_input_label cs_heading_color">Email id<span style="color: red;">*</span></label>
-                <input type="text" class="cs_form_field" placeholder="john@gmail.com " required>
+                <input type="text" class="cs_form_field" name="email" placeholder="john@gmail.com " required>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-12">
                   <label class="cs_input_label cs_heading_color">Address<span style="color: red;">*</span></label>
-                  <input type="text" class="cs_form_field" placeholder="123 Main St, City, Country" required>
+                  <input type="text" class="cs_form_field" name="address" placeholder="123 Main St, City, Country" required>
                   <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-6">
                   <label class="cs_input_label cs_heading_color">Pincode<span style="color: red;">*</span></label>
                   <div class="cs_with_icon_input">
-                      <input type="text" class="cs_form_field" placeholder="123456" required>
+                      <input type="text" class="cs_form_field" name="pincode" placeholder="123456" required>
                       <i class="fa-solid fa-map-pin"></i>
                   </div>
                   <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-6">
                 <label class="cs_input_label cs_heading_color">Services<span style="color: red;">*</span></label>
-                <select name="category" class="cs_select" data-placeholder="Category" required>
+                <select name="category" class="cs_select" name="category" data-placeholder="Category" required>
                   <!-- options -->
                   <option value="emergency-department">Complete Blood Test</option>
                   <option value="pediatric-departement">Urine Test</option>
@@ -112,7 +112,7 @@
               <div class="col-lg-6">
                 <label class="cs_input_label cs_heading_color">Preferred Date<span style="color: red;">*</span></label>
                 <div class="cs_with_icon_input">
-                  <input type="text" class="cs_form_field" id="datepicker" placeholder="August 24, 2023" required>
+                  <input type="text" class="cs_form_field" id="datepicker" name="date" placeholder="August 24, 2023" required>
                   <i class="fa-solid fa-calendar-days"></i>
                 </div>
                 <div class="cs_height_42 cs_height_xl_25"></div>
@@ -120,14 +120,14 @@
               <div class="col-lg-6">
                 <label class="cs_input_label cs_heading_color">Preferred Time<span style="color: red;">*</span></label>
                 <div class="cs_with_icon_input">
-                  <input type="text" class="cs_form_field cs_timepicker" placeholder="10:00AM" required>
+                  <input type="text" class="cs_form_field cs_timepicker" name="time" placeholder="10:00AM" required>
                   <i class="fa-regular fa-clock"></i>
                 </div>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-12">
                 <label class="cs_input_label cs_heading_color">Message</label>
-                <textarea class="cs_form_field" placeholder="Write your message"></textarea>
+                <textarea class="cs_form_field" name="message" placeholder="Write your message"></textarea>
                 <div class="cs_height_42 cs_height_xl_25">
               </div>  
               <div class="col-lg-12">
