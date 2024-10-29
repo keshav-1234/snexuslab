@@ -62,7 +62,7 @@
         <div class="cs_hero_bottom">
           <div class="cs_hero_bottom_left">
             <div class="cs_hero_btn_wrap">
-              <a href="https://www.youtube.com/embed/VcaAVWtP48A" class="cs_video_open cs_white_color cs_text_btn_2 cs_fs_20">
+              <a href="https://drive.google.com/file/d/1Baz50BelpCQu49WOqu8v1rtOeGf1L11K/view" class="cs_video_open cs_white_color cs_text_btn_2 cs_fs_20">
                 <span class="cs_text_btn_icon">
                   <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M42.739 7.26089C32.8938 -2.48797 17.0097 -2.40994 7.26088 7.43526C-2.42029 17.2121 -2.42029 32.9623 7.26088 42.7392C17.1061 52.488 32.9902 52.41 42.739 42.5648C52.4202 32.788 52.4202 17.0377 42.739 7.26089ZM25 48.0713C12.2783 48.0713 1.92868 37.7217 1.92868 25C1.92868 12.2782 12.2782 1.9288 25 1.9288C37.7217 1.9288 48.0712 12.2784 48.0712 25.0001C48.0712 37.7218 37.7216 48.0713 25 48.0713Z" fill="currentColor"/>
@@ -522,7 +522,7 @@
             <div class="cs_accordians cs_style1 cs_type_1 cs_heading_color">
               <div class="cs_accordian">
                 <h2 class="cs_accordian_head cs_heading_color">
-                  What services does SNEXUSLAB offer? 
+                  What is pathology testing?
                   <span class="cs_accordian_arrow">
                     <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
@@ -530,12 +530,12 @@
                   </span>                 
                 </h2>
                 <div class="cs_accordian_body">
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.</p>
+                  <p> Pathology testing involves analyzing samples of blood, urine, tissue, or other bodily substances to diagnose, monitor, and treat diseases. These tests provide crucial information about your health and help doctors make informed decisions about your care.</p>
                 </div>
               </div><!-- .cs_accordian -->
               <div class="cs_accordian">
                 <h2 class="cs_accordian_head cs_heading_color">
-                  How do I schedule an appointment with SNEXUSLAB?
+                  Why did my doctor recommend a pathology test?
                   <span class="cs_accordian_arrow">
                     <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
@@ -543,12 +543,12 @@
                   </span> 
                 </h2>
                 <div class="cs_accordian_body">
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.</p>
+                  <p>Doctors often recommend pathology tests to screen for health issues, confirm a diagnosis, monitor the progress of a disease, or check the effectiveness of a treatment. Pathology testing helps ensure that you receive the most accurate and timely care possible..</p>
                 </div>
               </div><!-- .cs_accordian -->
               <div class="cs_accordian active">
                 <h2 class="cs_accordian_head cs_heading_color">
-                  Do you accept insurance?
+                   Do I need to fast before my test?
                   <span class="cs_accordian_arrow">
                     <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
@@ -556,12 +556,12 @@
                   </span> 
                 </h2>
                 <div class="cs_accordian_body">
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.</p>
+                  <p>Some pathology tests, like blood glucose or lipid panel tests, may require fasting to provide accurate results. Your doctor or testing center will let you know if fasting is necessary and how long you should fast beforehand.</p>
                 </div>
               </div><!-- .cs_accordian -->
               <div class="cs_accordian">
                 <h2 class="cs_accordian_head cs_heading_color">
-                  What should I bring to my appointment?
+                  How should I prepare for my pathology test?
                   <span class="cs_accordian_arrow">
                     <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
@@ -569,12 +569,12 @@
                   </span> 
                 </h2>
                 <div class="cs_accordian_body">
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.</p>
+                  <p> Preparation depends on the type of test. For blood tests, you may need to fast or avoid certain medications. For urine tests, it’s best to avoid certain foods and drinks that may affect results. Always check with your healthcare provider for specific instructions before your test.</p>
                 </div>
               </div><!-- .cs_accordian -->
               <div class="cs_accordian">
                 <h2 class="cs_accordian_head cs_heading_color">
-                  How do I request a prescription refill?
+                   How long will it take to get my test results?
                   <span class="cs_accordian_arrow">
                     <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
@@ -582,7 +582,72 @@
                   </span> 
                 </h2>
                 <div class="cs_accordian_body">
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.</p>
+                  <p>Test result times vary depending on the type of test. Many routine tests are available within 24–48 hours, while specialized tests may take several days. Your testing provider will give you an estimated timeline when you have your test done.</p>
+                </div>
+              </div><!-- .cs_accordian -->
+              <div class="cs_accordian">
+                <h2 class="cs_accordian_head cs_heading_color">
+                  What do I do if my test results are abnormal?
+                  <span class="cs_accordian_arrow">
+                    <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
+                    </svg>
+                  </span> 
+                </h2>
+                <div class="cs_accordian_body">
+                  <p>Abnormal results are not always a cause for concern and can be influenced by various factors, including diet, medications, and stress. Discuss your results with your doctor, who can help interpret them and recommend any necessary follow-up steps.</p>
+                </div>
+              </div><!-- .cs_accordian -->
+              <div class="cs_accordian">
+                <h2 class="cs_accordian_head cs_heading_color">
+                   Can I access my test results online?
+                  <span class="cs_accordian_arrow">
+                    <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
+                    </svg>
+                  </span> 
+                </h2>
+                <div class="cs_accordian_body">
+                  <p>Most pathology testing centers offer online portals where you can securely access your results. Check with your testing provider to see if this option is available, as it can make managing your health information easier and more convenient.</p>
+                </div>
+              </div><!-- .cs_accordian -->
+              <div class="cs_accordian">
+                <h2 class="cs_accordian_head cs_heading_color">
+                  Are pathology tests covered by insurance?
+                  <span class="cs_accordian_arrow">
+                    <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
+                    </svg>
+                  </span> 
+                </h2>
+                <div class="cs_accordian_body">
+                  <p>Many pathology tests are covered by health insurance, but coverage can vary depending on your plan and the reason for the test. Check with your insurance provider and testing center to confirm coverage and any out-of-pocket costs you may need to pay.</p>
+                </div>
+              </div><!-- .cs_accordian -->
+              <div class="cs_accordian">
+                <h2 class="cs_accordian_head cs_heading_color">
+                   How often should I get pathology tests done?
+                  <span class="cs_accordian_arrow">
+                    <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
+                    </svg>
+                  </span> 
+                </h2>
+                <div class="cs_accordian_body">
+                  <p>This depends on your age, health status, and any ongoing health conditions. Routine tests like annual blood panels are commonly recommended, but some people may need more frequent testing based on their doctor’s guidance.</p>
+                </div>
+              </div><!-- .cs_accordian -->
+              <div class="cs_accordian">
+                <h2 class="cs_accordian_head cs_heading_color">
+                   Are pathology tests safe?
+                  <span class="cs_accordian_arrow">
+                    <svg width="23" height="13" viewBox="0 0 23 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22.9996 1.52904C23.0071 1.23098 22.9085 0.938281 22.7175 0.691638C22.5265 0.444996 22.2525 0.256664 21.9337 0.152828C21.615 0.048992 21.2674 0.0348107 20.939 0.112255C20.6107 0.1897 20.3181 0.354922 20.1018 0.584951L11.5264 9.36188L2.95408 0.58495C2.8207 0.425828 2.65137 0.292566 2.45653 0.193511C2.26169 0.094456 2.04557 0.0317421 1.82181 0.00929567C1.59805 -0.0131507 1.37146 0.00515451 1.15614 0.0630648C0.940819 0.120975 0.741392 0.217243 0.570471 0.345839C0.399549 0.474436 0.260902 0.632592 0.162918 0.810402C0.0649357 0.988212 0.00990291 1.18185 0.00121875 1.37918C-0.00746351 1.57651 0.0302848 1.77329 0.112352 1.95719C0.19442 2.14109 0.318905 2.30815 0.478018 2.44791L10.2836 12.4967C10.4372 12.6545 10.6278 12.7812 10.8427 12.8681C11.0575 12.955 11.2914 13 11.528 13C11.7646 13 11.9984 12.955 12.2132 12.8681C12.4281 12.7812 12.6189 12.6545 12.7725 12.4967L22.5875 2.44791C22.8447 2.19407 22.9905 1.86847 22.9996 1.52904Z" fill="#307BC4"/>
+                    </svg>
+                  </span> 
+                </h2>
+                <div class="cs_accordian_body">
+                  <p>Yes,pathology tests are generally very safe. Blood tests, urine samples, and other routine tests pose minimal risk. For invasive tests, like biopsies, the risks are low and are always explained by your doctor in advance to ensure your safety and comfort.</p>
                 </div>
               </div><!-- .cs_accordian -->
             </div><!-- .cs_accordians -->
@@ -592,8 +657,8 @@
       <div class="cs_height_200 cs_height_xl_150 cs_height_lg_110"></div>
     </section>
     <!-- End FAQ Section -->
-    <!-- Start Appointment  -->
-    <section class="cs_appointment_section_1 cs_bg_filed" data-src="assets/img/home_2/appointment_bg.svg">
+     <!-- Start Appointment  -->
+     <section class="cs_appointment_section_1 cs_bg_filed" data-src="assets/img/home_2/appointment_bg.svg">
       <div class="container">
         <div class="cs_height_132 cs_height_lg_105"></div>
         <div class="cs_appointment_img">
@@ -607,43 +672,38 @@
               <h2 class="cs_section_title cs_fs_72 m-0">Appointment</h2>
             </div>
             <div class="cs_height_57"></div>
-            <form class="row">
+            <form class="row" action="send_email.php" method="post">
               <div class="col-lg-6">
-                <label class="cs_input_label cs_heading_color">Name</label>
-                <input type="text" class="cs_form_field" placeholder="David John">
+                <label class="cs_input_label cs_heading_color">Name<span style="color: red;">*</span></label>
+                <input type="text" class="cs_form_field" name="name" placeholder="David John" required>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-6">
-                <label class="cs_input_label cs_heading_color">Phone Number</label>
-                <input type="text" class="cs_form_field" placeholder="(123) 456 - 789">
+                <label class="cs_input_label cs_heading_color">Phone Number<span style="color: red;">*</span></label>
+                <input type="text" class="cs_form_field" name="phone" placeholder="(123) 456 - 789" required>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-12">
-                <label class="cs_input_label cs_heading_color">Email id</label>
-                <input type="text" class="cs_form_field" placeholder="john@gmail.com ">
+                <label class="cs_input_label cs_heading_color">Email id<span style="color: red;">*</span></label>
+                <input type="text" class="cs_form_field" name="email" placeholder="john@gmail.com " required>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
-      
-              <div class="col-lg-6">
-                <label class="cs_input_label cs_heading_color">Preferred Date</label>
-                <div class="cs_with_icon_input">
-                  <input type="text" class="cs_form_field" id="datepicker" placeholder="August 24, 2023">
-                  <i class="fa-solid fa-calendar-days"></i>
-                </div>
-                <div class="cs_height_42 cs_height_xl_25"></div>
+              <div class="col-lg-12">
+                  <label class="cs_input_label cs_heading_color">Address<span style="color: red;">*</span></label>
+                  <input type="text" class="cs_form_field" name="address" placeholder="123 Main St, City, Country" required>
+                  <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
               <div class="col-lg-6">
-                <label class="cs_input_label cs_heading_color">Preferred Time</label>
-                <div class="cs_with_icon_input">
-                  <input type="text" class="cs_form_field cs_timepicker" placeholder="10:00AM">
-                  <i class="fa-regular fa-clock"></i>
-                </div>
-                <div class="cs_height_42 cs_height_xl_25"></div>
+                  <label class="cs_input_label cs_heading_color">Pincode<span style="color: red;">*</span></label>
+                  <div class="cs_with_icon_input">
+                      <input type="text" class="cs_form_field" name="pincode" placeholder="123456" required>
+                      <i class="fa-solid fa-map-pin"></i>
+                  </div>
+                  <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
-
               <div class="col-lg-6">
-                <label class="cs_input_label cs_heading_color">Services</label>
-                <select name="category" class="cs_select" data-placeholder="Category">
+                <label class="cs_input_label cs_heading_color">Services<span style="color: red;">*</span></label>
+                <select name="category" class="cs_select" name="category" data-placeholder="Category" required>
                   <!-- options -->
                   <option value="emergency-department">Complete Blood Test</option>
                   <option value="pediatric-departement">Urine Test</option>
@@ -653,6 +713,27 @@
                 </select>
                 <div class="cs_height_42 cs_height_xl_25"></div>
               </div>
+              <div class="col-lg-6">
+                <label class="cs_input_label cs_heading_color">Preferred Date<span style="color: red;">*</span></label>
+                <div class="cs_with_icon_input">
+                  <input type="text" class="cs_form_field" id="datepicker" name="date" placeholder="August 24, 2023" required>
+                  <i class="fa-solid fa-calendar-days"></i>
+                </div>
+                <div class="cs_height_42 cs_height_xl_25"></div>
+              </div>
+              <div class="col-lg-6">
+                <label class="cs_input_label cs_heading_color">Preferred Time<span style="color: red;">*</span></label>
+                <div class="cs_with_icon_input">
+                  <input type="text" class="cs_form_field cs_timepicker" name="time" placeholder="10:00AM" required>
+                  <i class="fa-regular fa-clock"></i>
+                </div>
+                <div class="cs_height_42 cs_height_xl_25"></div>
+              </div>
+              <div class="col-lg-12">
+                <label class="cs_input_label cs_heading_color">Message</label>
+                <textarea class="cs_form_field" name="message" placeholder="Write your message"></textarea>
+                <div class="cs_height_42 cs_height_xl_25">
+              </div>  
               <div class="col-lg-12">
                 <button class="cs_btn cs_style_1">
                   <span>Submit</span>
@@ -669,31 +750,36 @@
       </div>
     </section>
     <!-- End Appointment  -->
+
     <!-- Start Brands Section -->
     <div class="cs_height_200 cs_height_xl_150 cs_height_lg_110"></div>
-    <div class="cs_brand_carousel">
+    <div class="container">
+      <div class="cs_section_heading cs_style_1 text-center">
+        <h2 class="cs_section_title cs_fs_72 m-0">Our Partner Brands</h2>
+      </div>
+    <div class="cs_brand_carousel" style="padding-top: 50px;">
       <div class="cs_slider_activate">
         <div class="cs_slide">
           <div class="cs_brands cs_style_2">
-            <img src="assets/img/brand_1.png" alt="Brand">
+            <img src="assets/img/LDPL Daignostic.avif" alt="Brand">
           </div>
         </div>
         <div class="cs_slide">
           <div class="cs_brands cs_style_2">
-            <img src="assets/img/brand_2.png" alt="Brand">
+            <img src="assets/img/GD.jpeg" alt="Brand">
           </div>
         </div>
-        <div class="cs_slide">
+        <!-- <div class="cs_slide">
           <div class="cs_brands cs_style_2">
             <img src="assets/img/brand_3.png" alt="Brand">
           </div>
-        </div>
+        </div> -->
         <div class="cs_slide">
           <div class="cs_brands cs_style_2">
-            <img src="assets/img/brand_4.png" alt="Brand">
+            <img src="assets/img/Thyrocare_Logo_partners.png" alt="Brand">
           </div>
         </div>
-        <div class="cs_slide">
+        <!-- <div class="cs_slide">
           <div class="cs_brands cs_style_2">
             <img src="assets/img/brand_5.png" alt="Brand">
           </div>
@@ -712,11 +798,12 @@
           <div class="cs_brands cs_style_2">
             <img src="assets/img/brand_8.png" alt="Brand">
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="cs_pagination cs_style_1"></div>
     </div>
-    <div class="cs_height_200 cs_height_xl_150 cs_height_lg_110"></div>
+  </div>
+  <div class="cs_height_200 cs_height_xl_150 cs_height_lg_110"></div>
     <!-- End Brands Section -->
      
     <!-- Start Footer Section -->
